@@ -24,7 +24,8 @@
 		color:brown;}
 
 #sm{padding:0px 20px;
-	border-radius:50px;}		
+	border-radius:50px;
+	font-family:cursive;}		
 		
 .nav{font-weight: bold;
 		font-size:20px;
@@ -40,15 +41,16 @@ margin:5px;
 
 #ab{color:white;}
 
-.row{margin-top:30px;}
+.row{margin-top:20px;}
 
 hr{border:1px solid white;
 width:70px;
-margin-top:100px;}
+margin-top:60px;}
 
 #a{color:white;
 font-family:cursive;
-float: right;}
+float: right;
+margin-bottom:40px;}
 
 #ro{margin-top:4px;}
 
